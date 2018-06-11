@@ -1,0 +1,60 @@
+Bloque nav
+----------
+
+Inicio
+Restaurantes
+Hoteles
+Turismo
+Transporte
+
+Bloque aside izquierda
+----------------------
+
+Información
+
+Capital: Huaraz
+Ciudad más poblada: Chimbote
+Superficie: 35,915 km²
+
+Provincias
+
+Huaraz
+Aija
+Antonio Raymondi
+Asunción
+Bolognesi
+Carhuaz
+Carlos Fermín Fitzcarrald
+Casma
+Corongo
+Huaraz
+Huari
+
+Bloque section
+--------------
+Carhuaz
+Chavín de Huántar
+Nevado Pastoruri
+Huaraz
+
+Bloque aside derecha
+--------------------
+
+Las cabezas clavas son monolitos escultóricos que representan a 
+cabezas de seres míticos, pertenecientes a la cultura Chavín, una 
+cultura arquológica preincaica del Perú antiguo. Se hallaban 
+empotradas en fila horizontal y en forma equidistante en los muros 
+del Templo de Chavín de Huántar. 
+
+Bloque footer
+-------------
+
+Derechos Reservados. Lima, Perú. 2018.
+
+
+
+
+
+
+
+
